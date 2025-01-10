@@ -10,6 +10,6 @@
 |          playground                        | 序号|
 | --------------------------------------------- | ---- |
 | **Season 5, Episode 1: Forecasting Sticker Sales** | 1    |
-| **Season 5, Episode 1:   soon               ** | 2    |
-| **Season 5, Episode 1:     soon           ** | 3    |
-| **Season 5, Episode 1:    soon          ** | 4    |
+| **Season 5, Episode 2:  coming soon               ** | 2    |
+| **Season 5, Episode 3:    coming soon           ** | 3    |
+| **Season 5, Episode 4:   coming soon          ** | 4    |
